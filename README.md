@@ -8,3 +8,11 @@ NMS VERSION: 133107 (STEAM)
 2. Start No Man's Sky (NMS)
 3. Open 'EveryMansSky.exe'
 4. Have fun!!!
+
+# TO-DO LIST
+1. Infinite Terrain Gun Charge
+2. Godmode (inf health, inf stamina, inf jetpack, inf thermal protection, inf life support, etc.)
+3. Set Temperature
+4. Set/Edit Units
+5. Set/Edit Nanobytes
+and much more...
